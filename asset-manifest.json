@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/satyamd.tech/static/css/main.bf4ff606.chunk.css",
+    "main.js": "/satyamd.tech/static/js/main.6512a3ac.chunk.js",
+    "main.js.map": "/satyamd.tech/static/js/main.6512a3ac.chunk.js.map",
+    "runtime-main.js": "/satyamd.tech/static/js/runtime-main.a23e2326.js",
+    "runtime-main.js.map": "/satyamd.tech/static/js/runtime-main.a23e2326.js.map",
+    "static/js/2.846afe53.chunk.js": "/satyamd.tech/static/js/2.846afe53.chunk.js",
+    "static/js/2.846afe53.chunk.js.map": "/satyamd.tech/static/js/2.846afe53.chunk.js.map",
+    "static/js/3.b95b1836.chunk.js": "/satyamd.tech/static/js/3.b95b1836.chunk.js",
+    "static/js/3.b95b1836.chunk.js.map": "/satyamd.tech/static/js/3.b95b1836.chunk.js.map",
+    "index.html": "/satyamd.tech/index.html",
+    "static/css/main.bf4ff606.chunk.css.map": "/satyamd.tech/static/css/main.bf4ff606.chunk.css.map",
+    "static/js/2.846afe53.chunk.js.LICENSE.txt": "/satyamd.tech/static/js/2.846afe53.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/satyamd.tech/static/media/fontawesome-webfont.f7f1738c.woff",
+    "static/media/resume.css": "/satyamd.tech/static/media/lead-bg.e184655b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a23e2326.js",
+    "static/js/2.846afe53.chunk.js",
+    "static/css/main.bf4ff606.chunk.css",
+    "static/js/main.6512a3ac.chunk.js"
+  ]
+}
